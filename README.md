@@ -1,4 +1,4 @@
-### This is a tiny debugger that reads ELF headers and implements software breakpoints using `ptrace`. The debugger provides:
+### This is a tiny debugger that reads ELF headers and implements software breakpoints using `ptrace`.
 
 **Core Capabilities:**
 - ELF64 header parsing with program/section header analysis
